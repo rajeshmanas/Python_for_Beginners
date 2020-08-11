@@ -1,4 +1,4 @@
-# Factorial code using FOR loop
+# Factorial code using FOR loop - New
 print('enter the number for the factorial you want:')
 i_want_fact_for = int(input())
 #print(type(i_want_fact_for))
