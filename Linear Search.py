@@ -1,5 +1,5 @@
 # How to search a given number using Linear Search approach
-print('Enter 10 list of numbers from which you want to perform Linear Search:')
+print('Enter 10 list of numbers for which you want to perform Linear Search:')
 list_of_numbers = []
 for i in range(10):
     list_of_numbers.append(int(input()))
