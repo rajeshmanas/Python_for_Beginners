@@ -10,7 +10,7 @@ mydb = mysql.connector.connect(
 mycursor = mydb.cursor()
 
 # Table name is 'Customers' in the database 'Sql_Store' having following data,copied the data for your easy understanding
-#
+
 # customer_id	first_name	last_name	birth_date	phone	address	city	state	points
 # 1	Babara	MacCaffrey	1986-03-28	781-932-9754	0 Sage Terrace	Waltham	MA	7868
 # 2	Ines	Brushfield	1986-04-13	804-427-9456	14187 Commercial Trail	Hampton	VA	947
